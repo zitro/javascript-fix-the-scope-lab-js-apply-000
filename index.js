@@ -1,5 +1,5 @@
 
-var animal = 'dog'
+let animal = 'dog'
 
 function myAnimal(myAnimal) {
 let myAnimal == animal;
