@@ -2,13 +2,13 @@
 var animal = 'dog'
 
 function myAnimal(animal) {
-var mAnimal == animal;
-  return mAnimal;
+var mAnimal === animal;
+  return mAnimal
 }
 
 function yourAnimal(animal) {
 var yAnimal == animal;
-  return yAnimal;
+  return yAnimal
 }
 
 function add2(n) {
