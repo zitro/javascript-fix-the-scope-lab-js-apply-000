@@ -1,13 +1,13 @@
 
 var animal = 'dog'
 
-function myAnimal(animal) {
-animal == myAnimal;
+function myAnimal(myAnimal) {
+let myAnimal == animal;
   return myAnimal
 }
 
-function yourAnimal(animal) {
-animal == yourAnimal;
+function yourAnimal(yourAnimal) {
+let yourAnimal == animal;
   return yourAnimal
 }
 
