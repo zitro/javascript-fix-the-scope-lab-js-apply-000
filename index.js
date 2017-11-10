@@ -7,7 +7,8 @@ animal == myAnimal;
 }
 
 function yourAnimal(animal) {
-  return animal
+animal == yourAnimal;
+  return yourAnimal
 }
 
 function add2(n) {
