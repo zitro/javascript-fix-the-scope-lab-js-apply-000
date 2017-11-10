@@ -7,7 +7,7 @@ var mAnimal === animal;
 }
 
 function yourAnimal(animal) {
-var yAnimal == animal;
+var yAnimal === animal;
   return yAnimal
 }
 
