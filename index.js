@@ -2,7 +2,8 @@
 let animal = 'dog'
 
 function myAnimal(animal) {
-  return animal
+animal == myAnimal;
+  return myAnimal
 }
 
 function yourAnimal(animal) {
