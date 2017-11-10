@@ -1,14 +1,12 @@
 
 let animal = 'dog'
 
-function myAnimal(myAnimal) {
-let myAnimal === animal;
-  return myAnimal
+function myAnimal(animal) {
+  return animal
 }
 
-function yourAnimal(yourAnimal) {
-let yourAnimal === animal;
-  return yourAnimal
+function yourAnimal(animal) {
+  return animal
 }
 
 function add2(n) {
