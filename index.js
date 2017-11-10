@@ -2,12 +2,12 @@
 var animal = 'dog'
 
 function myAnimal(mAnimal) {
-mAnimal === animal;
+var mAnimal === animal;
   return mAnimal
 }
 
 function yourAnimal(yAnimal) {
-yAnimal === animal;
+var yAnimal === animal;
   return yAnimal
 }
 
