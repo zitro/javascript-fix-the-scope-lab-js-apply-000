@@ -2,12 +2,12 @@
 let animal = 'dog'
 
 function myAnimal(myAnimal) {
-let myAnimal == animal;
+let myAnimal === animal;
   return myAnimal
 }
 
 function yourAnimal(yourAnimal) {
-let yourAnimal == animal;
+let yourAnimal === animal;
   return yourAnimal
 }
 
