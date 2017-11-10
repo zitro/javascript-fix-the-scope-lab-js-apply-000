@@ -3,12 +3,12 @@ let animal = 'dog'
 
 function myAnimal(animal) {
 animal == myAnimal;
-  return myAnimal
+  return myAnimal;
 }
 
 function yourAnimal(animal) {
 animal == yourAnimal;
-  return yourAnimal
+  return yourAnimal;
 }
 
 function add2(n) {
